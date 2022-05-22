@@ -1,701 +1,701 @@
-nhood,day_of_week,hour_bucket,avg_pickups
-Castro/Upper Market,0,0-7,1.68
-Castro/Upper Market,0,10-16,5.43
-Castro/Upper Market,0,16-19,10.57
-Castro/Upper Market,0,19-0,7.88
-Castro/Upper Market,0,7-10,7.15
-Castro/Upper Market,1,0-7,1.92
-Castro/Upper Market,1,10-16,6.07
-Castro/Upper Market,1,16-19,11.34
-Castro/Upper Market,1,19-0,9.84
-Castro/Upper Market,1,7-10,8.25
-Castro/Upper Market,2,0-7,2.07
-Castro/Upper Market,2,10-16,6.37
-Castro/Upper Market,2,16-19,12.78
-Castro/Upper Market,2,19-0,11.88
-Castro/Upper Market,2,7-10,8.39
-Castro/Upper Market,3,0-7,2.11
-Castro/Upper Market,3,10-16,6.59
-Castro/Upper Market,3,16-19,11.7
-Castro/Upper Market,3,19-0,14.31
-Castro/Upper Market,3,7-10,8.7
-Castro/Upper Market,4,0-7,2.19
-Castro/Upper Market,4,10-16,7.38
-Castro/Upper Market,4,16-19,14.76
-Castro/Upper Market,4,19-0,21.2
-Castro/Upper Market,4,7-10,8.15
-Castro/Upper Market,5,0-7,2.38
-Castro/Upper Market,5,10-16,12.85
-Castro/Upper Market,5,16-19,18.57
-Castro/Upper Market,5,19-0,21.92
-Castro/Upper Market,5,7-10,5.63
-Castro/Upper Market,6,0-7,2.69
-Castro/Upper Market,6,10-16,11.97
-Castro/Upper Market,6,16-19,15.02
-Castro/Upper Market,6,19-0,9.16
-Castro/Upper Market,6,7-10,4.96
-Chinatown,0,0-7,3.02
-Chinatown,0,10-16,8.09
-Chinatown,0,16-19,18.23
-Chinatown,0,19-0,8.02
-Chinatown,0,7-10,12.62
-Chinatown,1,0-7,2.78
-Chinatown,1,10-16,9.28
-Chinatown,1,16-19,20.37
-Chinatown,1,19-0,10.47
-Chinatown,1,7-10,13.67
-Chinatown,2,0-7,2.56
-Chinatown,2,10-16,9.82
-Chinatown,2,16-19,22.66
-Chinatown,2,19-0,12.54
-Chinatown,2,7-10,13.97
-Chinatown,3,0-7,3.33
-Chinatown,3,10-16,11.08
-Chinatown,3,16-19,20.76
-Chinatown,3,19-0,14.31
-Chinatown,3,7-10,16.6
-Chinatown,4,0-7,3.2
-Chinatown,4,10-16,11.67
-Chinatown,4,16-19,21.4
-Chinatown,4,19-0,17.54
-Chinatown,4,7-10,15.86
-Chinatown,5,0-7,1.99
-Chinatown,5,10-16,11.83
-Chinatown,5,16-19,17.96
-Chinatown,5,19-0,17.22
-Chinatown,5,7-10,5.0
-Chinatown,6,0-7,1.8
-Chinatown,6,10-16,9.17
-Chinatown,6,16-19,10.95
-Chinatown,6,19-0,5.99
-Chinatown,6,7-10,3.61
-Civic Center,0,0-7,3.36
-Civic Center,0,10-16,16.1
-Civic Center,0,16-19,24.39
-Civic Center,0,19-0,12.83
-Civic Center,0,7-10,21.88
-Civic Center,1,0-7,3.53
-Civic Center,1,10-16,18.6
-Civic Center,1,16-19,30.8
-Civic Center,1,19-0,16.51
-Civic Center,1,7-10,22.66
-Civic Center,2,0-7,3.48
-Civic Center,2,10-16,19.77
-Civic Center,2,16-19,32.98
-Civic Center,2,19-0,19.83
-Civic Center,2,7-10,23.79
-Civic Center,3,0-7,4.22
-Civic Center,3,10-16,21.88
-Civic Center,3,16-19,29.83
-Civic Center,3,19-0,23.9
-Civic Center,3,7-10,28.05
-Civic Center,4,0-7,4.14
-Civic Center,4,10-16,21.03
-Civic Center,4,16-19,31.66
-Civic Center,4,19-0,33.27
-Civic Center,4,7-10,23.96
-Civic Center,5,0-7,3.47
-Civic Center,5,10-16,17.72
-Civic Center,5,16-19,33.69
-Civic Center,5,19-0,36.23
-Civic Center,5,7-10,8.47
-Civic Center,6,0-7,4.2
-Civic Center,6,10-16,17.58
-Civic Center,6,16-19,22.25
-Civic Center,6,19-0,10.63
-Civic Center,6,7-10,7.25
-Eastern SoMa,0,0-7,2.48
-Eastern SoMa,0,10-16,11.63
-Eastern SoMa,0,16-19,16.42
-Eastern SoMa,0,19-0,7.68
-Eastern SoMa,0,7-10,17.58
-Eastern SoMa,1,0-7,2.44
-Eastern SoMa,1,10-16,13.56
-Eastern SoMa,1,16-19,18.73
-Eastern SoMa,1,19-0,9.96
-Eastern SoMa,1,7-10,18.98
-Eastern SoMa,2,0-7,2.63
-Eastern SoMa,2,10-16,15.5
-Eastern SoMa,2,16-19,21.49
-Eastern SoMa,2,19-0,12.81
-Eastern SoMa,2,7-10,20.81
-Eastern SoMa,3,0-7,2.99
-Eastern SoMa,3,10-16,17.76
-Eastern SoMa,3,16-19,20.7
-Eastern SoMa,3,19-0,15.72
-Eastern SoMa,3,7-10,24.84
-Eastern SoMa,4,0-7,3.03
-Eastern SoMa,4,10-16,16.95
-Eastern SoMa,4,16-19,24.2
-Eastern SoMa,4,19-0,20.5
-Eastern SoMa,4,7-10,22.96
-Eastern SoMa,5,0-7,2.31
-Eastern SoMa,5,10-16,11.86
-Eastern SoMa,5,16-19,18.4
-Eastern SoMa,5,19-0,19.12
-Eastern SoMa,5,7-10,5.66
-Eastern SoMa,6,0-7,2.58
-Eastern SoMa,6,10-16,10.29
-Eastern SoMa,6,16-19,12.9
-Eastern SoMa,6,19-0,6.67
-Eastern SoMa,6,7-10,4.06
-Financial District,0,0-7,3.12
-Financial District,0,10-16,9.58
-Financial District,0,16-19,12.62
-Financial District,0,19-0,4.64
-Financial District,0,7-10,14.07
-Financial District,1,0-7,2.76
-Financial District,1,10-16,11.11
-Financial District,1,16-19,13.82
-Financial District,1,19-0,5.34
-Financial District,1,7-10,14.81
-Financial District,2,0-7,2.93
-Financial District,2,10-16,12.01
-Financial District,2,16-19,15.05
-Financial District,2,19-0,6.72
-Financial District,2,7-10,16.28
-Financial District,3,0-7,3.91
-Financial District,3,10-16,13.76
-Financial District,3,16-19,13.0
-Financial District,3,19-0,7.98
-Financial District,3,7-10,20.39
-Financial District,4,0-7,3.42
-Financial District,4,10-16,12.05
-Financial District,4,16-19,12.78
-Financial District,4,19-0,10.9
-Financial District,4,7-10,18.4
-Financial District,5,0-7,1.04
-Financial District,5,10-16,8.23
-Financial District,5,16-19,10.86
-Financial District,5,19-0,9.62
-Financial District,5,7-10,4.33
-Financial District,6,0-7,0.9
-Financial District,6,10-16,6.35
-Financial District,6,16-19,7.23
-Financial District,6,19-0,3.56
-Financial District,6,7-10,2.96
-Haight Ashbury/Cole Valley,0,0-7,1.97
-Haight Ashbury/Cole Valley,0,10-16,5.7
-Haight Ashbury/Cole Valley,0,16-19,9.85
-Haight Ashbury/Cole Valley,0,19-0,7.02
-Haight Ashbury/Cole Valley,0,7-10,6.1
-Haight Ashbury/Cole Valley,1,0-7,1.99
-Haight Ashbury/Cole Valley,1,10-16,5.83
-Haight Ashbury/Cole Valley,1,16-19,10.61
-Haight Ashbury/Cole Valley,1,19-0,8.71
-Haight Ashbury/Cole Valley,1,7-10,7.05
-Haight Ashbury/Cole Valley,2,0-7,2.18
-Haight Ashbury/Cole Valley,2,10-16,6.2
-Haight Ashbury/Cole Valley,2,16-19,11.6
-Haight Ashbury/Cole Valley,2,19-0,10.5
-Haight Ashbury/Cole Valley,2,7-10,7.75
-Haight Ashbury/Cole Valley,3,0-7,2.34
-Haight Ashbury/Cole Valley,3,10-16,6.57
-Haight Ashbury/Cole Valley,3,16-19,10.51
-Haight Ashbury/Cole Valley,3,19-0,12.57
-Haight Ashbury/Cole Valley,3,7-10,7.49
-Haight Ashbury/Cole Valley,4,0-7,2.47
-Haight Ashbury/Cole Valley,4,10-16,7.18
-Haight Ashbury/Cole Valley,4,16-19,13.18
-Haight Ashbury/Cole Valley,4,19-0,17.82
-Haight Ashbury/Cole Valley,4,7-10,6.82
-Haight Ashbury/Cole Valley,5,0-7,2.62
-Haight Ashbury/Cole Valley,5,10-16,12.11
-Haight Ashbury/Cole Valley,5,16-19,16.5
-Haight Ashbury/Cole Valley,5,19-0,17.64
-Haight Ashbury/Cole Valley,5,7-10,4.92
-Haight Ashbury/Cole Valley,6,0-7,2.58
-Haight Ashbury/Cole Valley,6,10-16,10.24
-Haight Ashbury/Cole Valley,6,16-19,12.95
-Haight Ashbury/Cole Valley,6,19-0,6.88
-Haight Ashbury/Cole Valley,6,7-10,4.47
-Hayes Valley/Lower Haight,0,0-7,2.21
-Hayes Valley/Lower Haight,0,10-16,7.36
-Hayes Valley/Lower Haight,0,16-19,14.64
-Hayes Valley/Lower Haight,0,19-0,10.54
-Hayes Valley/Lower Haight,0,7-10,8.97
-Hayes Valley/Lower Haight,1,0-7,2.03
-Hayes Valley/Lower Haight,1,10-16,8.41
-Hayes Valley/Lower Haight,1,16-19,17.47
-Hayes Valley/Lower Haight,1,19-0,13.5
-Hayes Valley/Lower Haight,1,7-10,10.02
-Hayes Valley/Lower Haight,2,0-7,1.86
-Hayes Valley/Lower Haight,2,10-16,8.99
-Hayes Valley/Lower Haight,2,16-19,19.48
-Hayes Valley/Lower Haight,2,19-0,16.25
-Hayes Valley/Lower Haight,2,7-10,10.41
-Hayes Valley/Lower Haight,3,0-7,2.21
-Hayes Valley/Lower Haight,3,10-16,9.64
-Hayes Valley/Lower Haight,3,16-19,17.73
-Hayes Valley/Lower Haight,3,19-0,18.79
-Hayes Valley/Lower Haight,3,7-10,11.28
-Hayes Valley/Lower Haight,4,0-7,2.42
-Hayes Valley/Lower Haight,4,10-16,10.03
-Hayes Valley/Lower Haight,4,16-19,21.23
-Hayes Valley/Lower Haight,4,19-0,26.03
-Hayes Valley/Lower Haight,4,7-10,10.83
-Hayes Valley/Lower Haight,5,0-7,3.12
-Hayes Valley/Lower Haight,5,10-16,15.73
-Hayes Valley/Lower Haight,5,16-19,26.75
-Hayes Valley/Lower Haight,5,19-0,25.76
-Hayes Valley/Lower Haight,5,7-10,6.63
-Hayes Valley/Lower Haight,6,0-7,3.44
-Hayes Valley/Lower Haight,6,10-16,14.98
-Hayes Valley/Lower Haight,6,16-19,19.11
-Hayes Valley/Lower Haight,6,19-0,9.46
-Hayes Valley/Lower Haight,6,7-10,5.67
-Inner Richmond,0,0-7,1.21
-Inner Richmond,0,10-16,3.19
-Inner Richmond,0,16-19,6.03
-Inner Richmond,0,19-0,3.6
-Inner Richmond,0,7-10,3.43
-Inner Richmond,1,0-7,0.96
-Inner Richmond,1,10-16,3.41
-Inner Richmond,1,16-19,6.58
-Inner Richmond,1,19-0,4.67
-Inner Richmond,1,7-10,3.71
-Inner Richmond,2,0-7,1.04
-Inner Richmond,2,10-16,3.71
-Inner Richmond,2,16-19,7.46
-Inner Richmond,2,19-0,5.55
-Inner Richmond,2,7-10,4.08
-Inner Richmond,3,0-7,1.06
-Inner Richmond,3,10-16,3.9
-Inner Richmond,3,16-19,7.05
-Inner Richmond,3,19-0,7.01
-Inner Richmond,3,7-10,3.88
-Inner Richmond,4,0-7,1.28
-Inner Richmond,4,10-16,3.95
-Inner Richmond,4,16-19,8.6
-Inner Richmond,4,19-0,9.73
-Inner Richmond,4,7-10,4.09
-Inner Richmond,5,0-7,1.4
-Inner Richmond,5,10-16,6.1
-Inner Richmond,5,16-19,9.87
-Inner Richmond,5,19-0,9.94
-Inner Richmond,5,7-10,3.3
-Inner Richmond,6,0-7,1.5
-Inner Richmond,6,10-16,5.4
-Inner Richmond,6,16-19,7.04
-Inner Richmond,6,19-0,3.71
-Inner Richmond,6,7-10,2.88
-Marina/Cow Hollow,0,0-7,3.2
-Marina/Cow Hollow,0,10-16,9.17
-Marina/Cow Hollow,0,16-19,16.92
-Marina/Cow Hollow,0,19-0,9.22
-Marina/Cow Hollow,0,7-10,11.8
-Marina/Cow Hollow,1,0-7,3.67
-Marina/Cow Hollow,1,10-16,10.18
-Marina/Cow Hollow,1,16-19,19.52
-Marina/Cow Hollow,1,19-0,12.82
-Marina/Cow Hollow,1,7-10,13.23
-Marina/Cow Hollow,2,0-7,3.64
-Marina/Cow Hollow,2,10-16,11.38
-Marina/Cow Hollow,2,16-19,22.4
-Marina/Cow Hollow,2,19-0,15.33
-Marina/Cow Hollow,2,7-10,13.65
-Marina/Cow Hollow,3,0-7,3.83
-Marina/Cow Hollow,3,10-16,11.42
-Marina/Cow Hollow,3,16-19,21.19
-Marina/Cow Hollow,3,19-0,18.94
-Marina/Cow Hollow,3,7-10,13.55
-Marina/Cow Hollow,4,0-7,3.51
-Marina/Cow Hollow,4,10-16,13.11
-Marina/Cow Hollow,4,16-19,27.57
-Marina/Cow Hollow,4,19-0,29.93
-Marina/Cow Hollow,4,7-10,13.65
-Marina/Cow Hollow,5,0-7,2.81
-Marina/Cow Hollow,5,10-16,24.43
-Marina/Cow Hollow,5,16-19,30.64
-Marina/Cow Hollow,5,19-0,33.29
-Marina/Cow Hollow,5,7-10,12.02
-Marina/Cow Hollow,6,0-7,3.3
-Marina/Cow Hollow,6,10-16,18.71
-Marina/Cow Hollow,6,16-19,20.18
-Marina/Cow Hollow,6,19-0,8.68
-Marina/Cow Hollow,6,7-10,9.18
-Mission,0,0-7,2.78
-Mission,0,10-16,9.88
-Mission,0,16-19,17.21
-Mission,0,19-0,10.0
-Mission,0,7-10,14.58
-Mission,1,0-7,2.75
-Mission,1,10-16,10.94
-Mission,1,16-19,19.47
-Mission,1,19-0,12.8
-Mission,1,7-10,15.53
-Mission,2,0-7,2.76
-Mission,2,10-16,11.95
-Mission,2,16-19,22.01
-Mission,2,19-0,15.97
-Mission,2,7-10,16.55
-Mission,3,0-7,3.17
-Mission,3,10-16,12.89
-Mission,3,16-19,20.88
-Mission,3,19-0,18.51
-Mission,3,7-10,17.68
-Mission,4,0-7,3.16
-Mission,4,10-16,12.79
-Mission,4,16-19,24.56
-Mission,4,19-0,28.62
-Mission,4,7-10,17.36
-Mission,5,0-7,3.41
-Mission,5,10-16,17.33
-Mission,5,16-19,26.6
-Mission,5,19-0,28.81
-Mission,5,7-10,8.25
-Mission,6,0-7,3.86
-Mission,6,10-16,15.46
-Mission,6,16-19,19.67
-Mission,6,19-0,10.73
-Mission,6,7-10,6.43
-Mission Bay,0,0-7,3.1
-Mission Bay,0,10-16,10.05
-Mission Bay,0,16-19,16.79
-Mission Bay,0,19-0,7.44
-Mission Bay,0,7-10,16.34
-Mission Bay,1,0-7,3.4
-Mission Bay,1,10-16,11.31
-Mission Bay,1,16-19,19.51
-Mission Bay,1,19-0,9.63
-Mission Bay,1,7-10,18.2
-Mission Bay,2,0-7,3.37
-Mission Bay,2,10-16,12.75
-Mission Bay,2,16-19,21.53
-Mission Bay,2,19-0,11.68
-Mission Bay,2,7-10,21.39
-Mission Bay,3,0-7,3.89
-Mission Bay,3,10-16,13.61
-Mission Bay,3,16-19,20.02
-Mission Bay,3,19-0,15.12
-Mission Bay,3,7-10,22.24
-Mission Bay,4,0-7,3.72
-Mission Bay,4,10-16,13.53
-Mission Bay,4,16-19,23.79
-Mission Bay,4,19-0,18.54
-Mission Bay,4,7-10,19.13
-Mission Bay,5,0-7,1.84
-Mission Bay,5,10-16,10.46
-Mission Bay,5,16-19,16.23
-Mission Bay,5,19-0,17.15
-Mission Bay,5,7-10,5.56
-Mission Bay,6,0-7,2.28
-Mission Bay,6,10-16,10.13
-Mission Bay,6,16-19,12.71
-Mission Bay,6,19-0,5.47
-Mission Bay,6,7-10,4.52
-Nob Hill,0,0-7,4.52
-Nob Hill,0,10-16,12.72
-Nob Hill,0,16-19,24.76
-Nob Hill,0,19-0,16.17
-Nob Hill,0,7-10,13.75
-Nob Hill,1,0-7,4.51
-Nob Hill,1,10-16,13.58
-Nob Hill,1,16-19,30.3
-Nob Hill,1,19-0,20.64
-Nob Hill,1,7-10,15.0
-Nob Hill,2,0-7,4.85
-Nob Hill,2,10-16,15.37
-Nob Hill,2,16-19,34.65
-Nob Hill,2,19-0,25.4
-Nob Hill,2,7-10,15.59
-Nob Hill,3,0-7,5.16
-Nob Hill,3,10-16,15.41
-Nob Hill,3,16-19,35.3
-Nob Hill,3,19-0,31.79
-Nob Hill,3,7-10,14.81
-Nob Hill,4,0-7,5.07
-Nob Hill,4,10-16,17.58
-Nob Hill,4,16-19,42.82
-Nob Hill,4,19-0,41.18
-Nob Hill,4,7-10,15.01
-Nob Hill,5,0-7,3.96
-Nob Hill,5,10-16,27.53
-Nob Hill,5,16-19,42.62
-Nob Hill,5,19-0,39.94
-Nob Hill,5,7-10,11.29
-Nob Hill,6,0-7,4.18
-Nob Hill,6,10-16,18.91
-Nob Hill,6,16-19,28.2
-Nob Hill,6,19-0,14.52
-Nob Hill,6,7-10,8.71
-North Beach/Waterfront,0,0-7,2.12
-North Beach/Waterfront,0,10-16,11.15
-North Beach/Waterfront,0,16-19,17.8
-North Beach/Waterfront,0,19-0,7.93
-North Beach/Waterfront,0,7-10,13.7
-North Beach/Waterfront,1,0-7,2.12
-North Beach/Waterfront,1,10-16,11.85
-North Beach/Waterfront,1,16-19,19.55
-North Beach/Waterfront,1,19-0,9.63
-North Beach/Waterfront,1,7-10,14.84
-North Beach/Waterfront,2,0-7,2.29
-North Beach/Waterfront,2,10-16,13.43
-North Beach/Waterfront,2,16-19,22.16
-North Beach/Waterfront,2,19-0,12.38
-North Beach/Waterfront,2,7-10,16.48
-North Beach/Waterfront,3,0-7,2.52
-North Beach/Waterfront,3,10-16,14.63
-North Beach/Waterfront,3,16-19,21.88
-North Beach/Waterfront,3,19-0,14.45
-North Beach/Waterfront,3,7-10,18.79
-North Beach/Waterfront,4,0-7,2.4
-North Beach/Waterfront,4,10-16,14.64
-North Beach/Waterfront,4,16-19,22.63
-North Beach/Waterfront,4,19-0,20.25
-North Beach/Waterfront,4,7-10,17.36
-North Beach/Waterfront,5,0-7,1.68
-North Beach/Waterfront,5,10-16,18.18
-North Beach/Waterfront,5,16-19,23.58
-North Beach/Waterfront,5,19-0,21.24
-North Beach/Waterfront,5,7-10,8.57
-North Beach/Waterfront,6,0-7,1.9
-North Beach/Waterfront,6,10-16,13.85
-North Beach/Waterfront,6,16-19,15.96
-North Beach/Waterfront,6,19-0,7.35
-North Beach/Waterfront,6,7-10,7.15
-Pacific Heights,0,0-7,4.12
-Pacific Heights,0,10-16,11.0
-Pacific Heights,0,16-19,17.65
-Pacific Heights,0,19-0,9.27
-Pacific Heights,0,7-10,16.38
-Pacific Heights,1,0-7,4.31
-Pacific Heights,1,10-16,12.18
-Pacific Heights,1,16-19,20.17
-Pacific Heights,1,19-0,12.7
-Pacific Heights,1,7-10,17.61
-Pacific Heights,2,0-7,4.8
-Pacific Heights,2,10-16,12.83
-Pacific Heights,2,16-19,22.49
-Pacific Heights,2,19-0,15.4
-Pacific Heights,2,7-10,18.87
-Pacific Heights,3,0-7,4.61
-Pacific Heights,3,10-16,13.59
-Pacific Heights,3,16-19,20.93
-Pacific Heights,3,19-0,18.73
-Pacific Heights,3,7-10,18.34
-Pacific Heights,4,0-7,4.31
-Pacific Heights,4,10-16,14.31
-Pacific Heights,4,16-19,24.8
-Pacific Heights,4,19-0,23.97
-Pacific Heights,4,7-10,18.68
-Pacific Heights,5,0-7,2.73
-Pacific Heights,5,10-16,19.83
-Pacific Heights,5,16-19,29.48
-Pacific Heights,5,19-0,25.99
-Pacific Heights,5,7-10,10.25
-Pacific Heights,6,0-7,3.41
-Pacific Heights,6,10-16,15.38
-Pacific Heights,6,16-19,20.36
-Pacific Heights,6,19-0,8.61
-Pacific Heights,6,7-10,8.02
-Potrero Hill,0,0-7,1.54
-Potrero Hill,0,10-16,6.76
-Potrero Hill,0,16-19,10.35
-Potrero Hill,0,19-0,4.6
-Potrero Hill,0,7-10,11.6
-Potrero Hill,1,0-7,1.51
-Potrero Hill,1,10-16,7.63
-Potrero Hill,1,16-19,11.9
-Potrero Hill,1,19-0,6.09
-Potrero Hill,1,7-10,12.75
-Potrero Hill,2,0-7,1.51
-Potrero Hill,2,10-16,8.67
-Potrero Hill,2,16-19,14.05
-Potrero Hill,2,19-0,7.15
-Potrero Hill,2,7-10,13.74
-Potrero Hill,3,0-7,1.82
-Potrero Hill,3,10-16,9.49
-Potrero Hill,3,16-19,13.72
-Potrero Hill,3,19-0,10.35
-Potrero Hill,3,7-10,16.1
-Potrero Hill,4,0-7,1.81
-Potrero Hill,4,10-16,9.2
-Potrero Hill,4,16-19,14.39
-Potrero Hill,4,19-0,15.02
-Potrero Hill,4,7-10,14.23
-Potrero Hill,5,0-7,1.58
-Potrero Hill,5,10-16,8.41
-Potrero Hill,5,16-19,12.15
-Potrero Hill,5,19-0,12.8
-Potrero Hill,5,7-10,4.44
-Potrero Hill,6,0-7,1.74
-Potrero Hill,6,10-16,7.0
-Potrero Hill,6,16-19,8.23
-Potrero Hill,6,19-0,3.65
-Potrero Hill,6,7-10,3.14
-Russian Hill,0,0-7,1.91
-Russian Hill,0,10-16,8.23
-Russian Hill,0,16-19,16.59
-Russian Hill,0,19-0,9.88
-Russian Hill,0,7-10,8.33
-Russian Hill,1,0-7,1.98
-Russian Hill,1,10-16,8.44
-Russian Hill,1,16-19,19.31
-Russian Hill,1,19-0,13.68
-Russian Hill,1,7-10,9.22
-Russian Hill,2,0-7,2.17
-Russian Hill,2,10-16,9.52
-Russian Hill,2,16-19,22.92
-Russian Hill,2,19-0,16.7
-Russian Hill,2,7-10,10.13
-Russian Hill,3,0-7,2.08
-Russian Hill,3,10-16,9.97
-Russian Hill,3,16-19,21.47
-Russian Hill,3,19-0,19.84
-Russian Hill,3,7-10,10.34
-Russian Hill,4,0-7,2.37
-Russian Hill,4,10-16,12.24
-Russian Hill,4,16-19,29.56
-Russian Hill,4,19-0,28.44
-Russian Hill,4,7-10,9.78
-Russian Hill,5,0-7,2.18
-Russian Hill,5,10-16,22.45
-Russian Hill,5,16-19,32.48
-Russian Hill,5,19-0,29.12
-Russian Hill,5,7-10,8.68
-Russian Hill,6,0-7,2.5
-Russian Hill,6,10-16,16.34
-Russian Hill,6,16-19,22.65
-Russian Hill,6,19-0,10.09
-Russian Hill,6,7-10,6.98
-Tenderloin,0,0-7,4.01
-Tenderloin,0,10-16,13.45
-Tenderloin,0,16-19,21.79
-Tenderloin,0,19-0,12.81
-Tenderloin,0,7-10,12.98
-Tenderloin,1,0-7,3.96
-Tenderloin,1,10-16,14.32
-Tenderloin,1,16-19,24.53
-Tenderloin,1,19-0,16.63
-Tenderloin,1,7-10,13.53
-Tenderloin,2,0-7,4.11
-Tenderloin,2,10-16,15.77
-Tenderloin,2,16-19,27.38
-Tenderloin,2,19-0,20.81
-Tenderloin,2,7-10,14.45
-Tenderloin,3,0-7,4.72
-Tenderloin,3,10-16,17.62
-Tenderloin,3,16-19,27.48
-Tenderloin,3,19-0,24.8
-Tenderloin,3,7-10,15.16
-Tenderloin,4,0-7,4.97
-Tenderloin,4,10-16,17.27
-Tenderloin,4,16-19,30.93
-Tenderloin,4,19-0,34.51
-Tenderloin,4,7-10,14.44
-Tenderloin,5,0-7,4.91
-Tenderloin,5,10-16,22.3
-Tenderloin,5,16-19,32.73
-Tenderloin,5,19-0,35.92
-Tenderloin,5,7-10,11.91
-Tenderloin,6,0-7,5.33
-Tenderloin,6,10-16,17.65
-Tenderloin,6,16-19,23.58
-Tenderloin,6,19-0,13.64
-Tenderloin,6,7-10,9.46
-Union Square,0,0-7,2.18
-Union Square,0,10-16,11.58
-Union Square,0,16-19,16.27
-Union Square,0,19-0,7.27
-Union Square,0,7-10,11.15
-Union Square,1,0-7,2.09
-Union Square,1,10-16,12.89
-Union Square,1,16-19,18.36
-Union Square,1,19-0,9.25
-Union Square,1,7-10,11.75
-Union Square,2,0-7,2.43
-Union Square,2,10-16,13.88
-Union Square,2,16-19,20.9
-Union Square,2,19-0,11.99
-Union Square,2,7-10,13.27
-Union Square,3,0-7,2.93
-Union Square,3,10-16,16.35
-Union Square,3,16-19,19.11
-Union Square,3,19-0,13.44
-Union Square,3,7-10,15.91
-Union Square,4,0-7,2.88
-Union Square,4,10-16,15.5
-Union Square,4,16-19,18.95
-Union Square,4,19-0,19.46
-Union Square,4,7-10,15.01
-Union Square,5,0-7,2.21
-Union Square,5,10-16,18.54
-Union Square,5,16-19,21.53
-Union Square,5,19-0,20.06
-Union Square,5,7-10,8.13
-Union Square,6,0-7,2.43
-Union Square,6,10-16,15.06
-Union Square,6,16-19,17.24
-Union Square,6,19-0,8.08
-Union Square,6,7-10,6.47
-Western Addition,0,0-7,3.09
-Western Addition,0,10-16,8.22
-Western Addition,0,16-19,12.85
-Western Addition,0,19-0,8.94
-Western Addition,0,7-10,10.3
-Western Addition,1,0-7,2.87
-Western Addition,1,10-16,8.94
-Western Addition,1,16-19,14.65
-Western Addition,1,19-0,11.28
-Western Addition,1,7-10,11.52
-Western Addition,2,0-7,2.91
-Western Addition,2,10-16,9.53
-Western Addition,2,16-19,15.77
-Western Addition,2,19-0,13.82
-Western Addition,2,7-10,11.92
-Western Addition,3,0-7,3.13
-Western Addition,3,10-16,10.01
-Western Addition,3,16-19,15.61
-Western Addition,3,19-0,16.75
-Western Addition,3,7-10,12.38
-Western Addition,4,0-7,2.98
-Western Addition,4,10-16,10.29
-Western Addition,4,16-19,19.05
-Western Addition,4,19-0,23.76
-Western Addition,4,7-10,11.91
-Western Addition,5,0-7,2.98
-Western Addition,5,10-16,14.74
-Western Addition,5,16-19,22.67
-Western Addition,5,19-0,24.01
-Western Addition,5,7-10,6.84
-Western Addition,6,0-7,3.52
-Western Addition,6,10-16,12.6
-Western Addition,6,16-19,16.09
-Western Addition,6,19-0,8.72
-Western Addition,6,7-10,5.73
-Western SoMa,0,0-7,2.35
-Western SoMa,0,10-16,11.27
-Western SoMa,0,16-19,17.12
-Western SoMa,0,19-0,7.42
-Western SoMa,0,7-10,16.24
-Western SoMa,1,0-7,2.13
-Western SoMa,1,10-16,12.93
-Western SoMa,1,16-19,20.37
-Western SoMa,1,19-0,9.61
-Western SoMa,1,7-10,17.1
-Western SoMa,2,0-7,2.2
-Western SoMa,2,10-16,13.89
-Western SoMa,2,16-19,21.86
-Western SoMa,2,19-0,12.14
-Western SoMa,2,7-10,18.27
-Western SoMa,3,0-7,2.72
-Western SoMa,3,10-16,15.33
-Western SoMa,3,16-19,19.61
-Western SoMa,3,19-0,15.57
-Western SoMa,3,7-10,21.72
-Western SoMa,4,0-7,2.71
-Western SoMa,4,10-16,14.56
-Western SoMa,4,16-19,23.03
-Western SoMa,4,19-0,22.25
-Western SoMa,4,7-10,19.29
-Western SoMa,5,0-7,3.02
-Western SoMa,5,10-16,11.67
-Western SoMa,5,16-19,16.54
-Western SoMa,5,19-0,23.12
-Western SoMa,5,7-10,5.84
-Western SoMa,6,0-7,3.76
-Western SoMa,6,10-16,9.29
-Western SoMa,6,16-19,11.71
-Western SoMa,6,19-0,6.58
-Western SoMa,6,7-10,4.23
+nhood,day_of_week,hour_bucket,avg_pickups,nhood_id,hour_bucket_id
+Castro/Upper Market,0,0-7,1.68,0,0
+Castro/Upper Market,0,10-16,5.43,0,1
+Castro/Upper Market,0,16-19,10.57,0,2
+Castro/Upper Market,0,19-0,7.88,0,3
+Castro/Upper Market,0,7-10,7.15,0,4
+Castro/Upper Market,1,0-7,1.92,0,0
+Castro/Upper Market,1,10-16,6.07,0,1
+Castro/Upper Market,1,16-19,11.34,0,2
+Castro/Upper Market,1,19-0,9.84,0,3
+Castro/Upper Market,1,7-10,8.25,0,4
+Castro/Upper Market,2,0-7,2.07,0,0
+Castro/Upper Market,2,10-16,6.37,0,1
+Castro/Upper Market,2,16-19,12.78,0,2
+Castro/Upper Market,2,19-0,11.88,0,3
+Castro/Upper Market,2,7-10,8.39,0,4
+Castro/Upper Market,3,0-7,2.11,0,0
+Castro/Upper Market,3,10-16,6.59,0,1
+Castro/Upper Market,3,16-19,11.7,0,2
+Castro/Upper Market,3,19-0,14.31,0,3
+Castro/Upper Market,3,7-10,8.7,0,4
+Castro/Upper Market,4,0-7,2.19,0,0
+Castro/Upper Market,4,10-16,7.38,0,1
+Castro/Upper Market,4,16-19,14.76,0,2
+Castro/Upper Market,4,19-0,21.2,0,3
+Castro/Upper Market,4,7-10,8.15,0,4
+Castro/Upper Market,5,0-7,2.38,0,0
+Castro/Upper Market,5,10-16,12.85,0,1
+Castro/Upper Market,5,16-19,18.57,0,2
+Castro/Upper Market,5,19-0,21.92,0,3
+Castro/Upper Market,5,7-10,5.63,0,4
+Castro/Upper Market,6,0-7,2.69,0,0
+Castro/Upper Market,6,10-16,11.97,0,1
+Castro/Upper Market,6,16-19,15.02,0,2
+Castro/Upper Market,6,19-0,9.16,0,3
+Castro/Upper Market,6,7-10,4.96,0,4
+Chinatown,0,0-7,3.02,1,0
+Chinatown,0,10-16,8.09,1,1
+Chinatown,0,16-19,18.23,1,2
+Chinatown,0,19-0,8.02,1,3
+Chinatown,0,7-10,12.62,1,4
+Chinatown,1,0-7,2.78,1,0
+Chinatown,1,10-16,9.28,1,1
+Chinatown,1,16-19,20.37,1,2
+Chinatown,1,19-0,10.47,1,3
+Chinatown,1,7-10,13.67,1,4
+Chinatown,2,0-7,2.56,1,0
+Chinatown,2,10-16,9.82,1,1
+Chinatown,2,16-19,22.66,1,2
+Chinatown,2,19-0,12.54,1,3
+Chinatown,2,7-10,13.97,1,4
+Chinatown,3,0-7,3.33,1,0
+Chinatown,3,10-16,11.08,1,1
+Chinatown,3,16-19,20.76,1,2
+Chinatown,3,19-0,14.31,1,3
+Chinatown,3,7-10,16.6,1,4
+Chinatown,4,0-7,3.2,1,0
+Chinatown,4,10-16,11.67,1,1
+Chinatown,4,16-19,21.4,1,2
+Chinatown,4,19-0,17.54,1,3
+Chinatown,4,7-10,15.86,1,4
+Chinatown,5,0-7,1.99,1,0
+Chinatown,5,10-16,11.83,1,1
+Chinatown,5,16-19,17.96,1,2
+Chinatown,5,19-0,17.22,1,3
+Chinatown,5,7-10,5.0,1,4
+Chinatown,6,0-7,1.8,1,0
+Chinatown,6,10-16,9.17,1,1
+Chinatown,6,16-19,10.95,1,2
+Chinatown,6,19-0,5.99,1,3
+Chinatown,6,7-10,3.61,1,4
+Civic Center,0,0-7,3.36,2,0
+Civic Center,0,10-16,16.1,2,1
+Civic Center,0,16-19,24.39,2,2
+Civic Center,0,19-0,12.83,2,3
+Civic Center,0,7-10,21.88,2,4
+Civic Center,1,0-7,3.53,2,0
+Civic Center,1,10-16,18.6,2,1
+Civic Center,1,16-19,30.8,2,2
+Civic Center,1,19-0,16.51,2,3
+Civic Center,1,7-10,22.66,2,4
+Civic Center,2,0-7,3.48,2,0
+Civic Center,2,10-16,19.77,2,1
+Civic Center,2,16-19,32.98,2,2
+Civic Center,2,19-0,19.83,2,3
+Civic Center,2,7-10,23.79,2,4
+Civic Center,3,0-7,4.22,2,0
+Civic Center,3,10-16,21.88,2,1
+Civic Center,3,16-19,29.83,2,2
+Civic Center,3,19-0,23.9,2,3
+Civic Center,3,7-10,28.05,2,4
+Civic Center,4,0-7,4.14,2,0
+Civic Center,4,10-16,21.03,2,1
+Civic Center,4,16-19,31.66,2,2
+Civic Center,4,19-0,33.27,2,3
+Civic Center,4,7-10,23.96,2,4
+Civic Center,5,0-7,3.47,2,0
+Civic Center,5,10-16,17.72,2,1
+Civic Center,5,16-19,33.69,2,2
+Civic Center,5,19-0,36.23,2,3
+Civic Center,5,7-10,8.47,2,4
+Civic Center,6,0-7,4.2,2,0
+Civic Center,6,10-16,17.58,2,1
+Civic Center,6,16-19,22.25,2,2
+Civic Center,6,19-0,10.63,2,3
+Civic Center,6,7-10,7.25,2,4
+Eastern SoMa,0,0-7,2.48,3,0
+Eastern SoMa,0,10-16,11.63,3,1
+Eastern SoMa,0,16-19,16.42,3,2
+Eastern SoMa,0,19-0,7.68,3,3
+Eastern SoMa,0,7-10,17.58,3,4
+Eastern SoMa,1,0-7,2.44,3,0
+Eastern SoMa,1,10-16,13.56,3,1
+Eastern SoMa,1,16-19,18.73,3,2
+Eastern SoMa,1,19-0,9.96,3,3
+Eastern SoMa,1,7-10,18.98,3,4
+Eastern SoMa,2,0-7,2.63,3,0
+Eastern SoMa,2,10-16,15.5,3,1
+Eastern SoMa,2,16-19,21.49,3,2
+Eastern SoMa,2,19-0,12.81,3,3
+Eastern SoMa,2,7-10,20.81,3,4
+Eastern SoMa,3,0-7,2.99,3,0
+Eastern SoMa,3,10-16,17.76,3,1
+Eastern SoMa,3,16-19,20.7,3,2
+Eastern SoMa,3,19-0,15.72,3,3
+Eastern SoMa,3,7-10,24.84,3,4
+Eastern SoMa,4,0-7,3.03,3,0
+Eastern SoMa,4,10-16,16.95,3,1
+Eastern SoMa,4,16-19,24.2,3,2
+Eastern SoMa,4,19-0,20.5,3,3
+Eastern SoMa,4,7-10,22.96,3,4
+Eastern SoMa,5,0-7,2.31,3,0
+Eastern SoMa,5,10-16,11.86,3,1
+Eastern SoMa,5,16-19,18.4,3,2
+Eastern SoMa,5,19-0,19.12,3,3
+Eastern SoMa,5,7-10,5.66,3,4
+Eastern SoMa,6,0-7,2.58,3,0
+Eastern SoMa,6,10-16,10.29,3,1
+Eastern SoMa,6,16-19,12.9,3,2
+Eastern SoMa,6,19-0,6.67,3,3
+Eastern SoMa,6,7-10,4.06,3,4
+Financial District,0,0-7,3.12,4,0
+Financial District,0,10-16,9.58,4,1
+Financial District,0,16-19,12.62,4,2
+Financial District,0,19-0,4.64,4,3
+Financial District,0,7-10,14.07,4,4
+Financial District,1,0-7,2.76,4,0
+Financial District,1,10-16,11.11,4,1
+Financial District,1,16-19,13.82,4,2
+Financial District,1,19-0,5.34,4,3
+Financial District,1,7-10,14.81,4,4
+Financial District,2,0-7,2.93,4,0
+Financial District,2,10-16,12.01,4,1
+Financial District,2,16-19,15.05,4,2
+Financial District,2,19-0,6.72,4,3
+Financial District,2,7-10,16.28,4,4
+Financial District,3,0-7,3.91,4,0
+Financial District,3,10-16,13.76,4,1
+Financial District,3,16-19,13.0,4,2
+Financial District,3,19-0,7.98,4,3
+Financial District,3,7-10,20.39,4,4
+Financial District,4,0-7,3.42,4,0
+Financial District,4,10-16,12.05,4,1
+Financial District,4,16-19,12.78,4,2
+Financial District,4,19-0,10.9,4,3
+Financial District,4,7-10,18.4,4,4
+Financial District,5,0-7,1.04,4,0
+Financial District,5,10-16,8.23,4,1
+Financial District,5,16-19,10.86,4,2
+Financial District,5,19-0,9.62,4,3
+Financial District,5,7-10,4.33,4,4
+Financial District,6,0-7,0.9,4,0
+Financial District,6,10-16,6.35,4,1
+Financial District,6,16-19,7.23,4,2
+Financial District,6,19-0,3.56,4,3
+Financial District,6,7-10,2.96,4,4
+Haight Ashbury/Cole Valley,0,0-7,1.97,5,0
+Haight Ashbury/Cole Valley,0,10-16,5.7,5,1
+Haight Ashbury/Cole Valley,0,16-19,9.85,5,2
+Haight Ashbury/Cole Valley,0,19-0,7.02,5,3
+Haight Ashbury/Cole Valley,0,7-10,6.1,5,4
+Haight Ashbury/Cole Valley,1,0-7,1.99,5,0
+Haight Ashbury/Cole Valley,1,10-16,5.83,5,1
+Haight Ashbury/Cole Valley,1,16-19,10.61,5,2
+Haight Ashbury/Cole Valley,1,19-0,8.71,5,3
+Haight Ashbury/Cole Valley,1,7-10,7.05,5,4
+Haight Ashbury/Cole Valley,2,0-7,2.18,5,0
+Haight Ashbury/Cole Valley,2,10-16,6.2,5,1
+Haight Ashbury/Cole Valley,2,16-19,11.6,5,2
+Haight Ashbury/Cole Valley,2,19-0,10.5,5,3
+Haight Ashbury/Cole Valley,2,7-10,7.75,5,4
+Haight Ashbury/Cole Valley,3,0-7,2.34,5,0
+Haight Ashbury/Cole Valley,3,10-16,6.57,5,1
+Haight Ashbury/Cole Valley,3,16-19,10.51,5,2
+Haight Ashbury/Cole Valley,3,19-0,12.57,5,3
+Haight Ashbury/Cole Valley,3,7-10,7.49,5,4
+Haight Ashbury/Cole Valley,4,0-7,2.47,5,0
+Haight Ashbury/Cole Valley,4,10-16,7.18,5,1
+Haight Ashbury/Cole Valley,4,16-19,13.18,5,2
+Haight Ashbury/Cole Valley,4,19-0,17.82,5,3
+Haight Ashbury/Cole Valley,4,7-10,6.82,5,4
+Haight Ashbury/Cole Valley,5,0-7,2.62,5,0
+Haight Ashbury/Cole Valley,5,10-16,12.11,5,1
+Haight Ashbury/Cole Valley,5,16-19,16.5,5,2
+Haight Ashbury/Cole Valley,5,19-0,17.64,5,3
+Haight Ashbury/Cole Valley,5,7-10,4.92,5,4
+Haight Ashbury/Cole Valley,6,0-7,2.58,5,0
+Haight Ashbury/Cole Valley,6,10-16,10.24,5,1
+Haight Ashbury/Cole Valley,6,16-19,12.95,5,2
+Haight Ashbury/Cole Valley,6,19-0,6.88,5,3
+Haight Ashbury/Cole Valley,6,7-10,4.47,5,4
+Hayes Valley/Lower Haight,0,0-7,2.21,6,0
+Hayes Valley/Lower Haight,0,10-16,7.36,6,1
+Hayes Valley/Lower Haight,0,16-19,14.64,6,2
+Hayes Valley/Lower Haight,0,19-0,10.54,6,3
+Hayes Valley/Lower Haight,0,7-10,8.97,6,4
+Hayes Valley/Lower Haight,1,0-7,2.03,6,0
+Hayes Valley/Lower Haight,1,10-16,8.41,6,1
+Hayes Valley/Lower Haight,1,16-19,17.47,6,2
+Hayes Valley/Lower Haight,1,19-0,13.5,6,3
+Hayes Valley/Lower Haight,1,7-10,10.02,6,4
+Hayes Valley/Lower Haight,2,0-7,1.86,6,0
+Hayes Valley/Lower Haight,2,10-16,8.99,6,1
+Hayes Valley/Lower Haight,2,16-19,19.48,6,2
+Hayes Valley/Lower Haight,2,19-0,16.25,6,3
+Hayes Valley/Lower Haight,2,7-10,10.41,6,4
+Hayes Valley/Lower Haight,3,0-7,2.21,6,0
+Hayes Valley/Lower Haight,3,10-16,9.64,6,1
+Hayes Valley/Lower Haight,3,16-19,17.73,6,2
+Hayes Valley/Lower Haight,3,19-0,18.79,6,3
+Hayes Valley/Lower Haight,3,7-10,11.28,6,4
+Hayes Valley/Lower Haight,4,0-7,2.42,6,0
+Hayes Valley/Lower Haight,4,10-16,10.03,6,1
+Hayes Valley/Lower Haight,4,16-19,21.23,6,2
+Hayes Valley/Lower Haight,4,19-0,26.03,6,3
+Hayes Valley/Lower Haight,4,7-10,10.83,6,4
+Hayes Valley/Lower Haight,5,0-7,3.12,6,0
+Hayes Valley/Lower Haight,5,10-16,15.73,6,1
+Hayes Valley/Lower Haight,5,16-19,26.75,6,2
+Hayes Valley/Lower Haight,5,19-0,25.76,6,3
+Hayes Valley/Lower Haight,5,7-10,6.63,6,4
+Hayes Valley/Lower Haight,6,0-7,3.44,6,0
+Hayes Valley/Lower Haight,6,10-16,14.98,6,1
+Hayes Valley/Lower Haight,6,16-19,19.11,6,2
+Hayes Valley/Lower Haight,6,19-0,9.46,6,3
+Hayes Valley/Lower Haight,6,7-10,5.67,6,4
+Inner Richmond,0,0-7,1.21,7,0
+Inner Richmond,0,10-16,3.19,7,1
+Inner Richmond,0,16-19,6.03,7,2
+Inner Richmond,0,19-0,3.6,7,3
+Inner Richmond,0,7-10,3.43,7,4
+Inner Richmond,1,0-7,0.96,7,0
+Inner Richmond,1,10-16,3.41,7,1
+Inner Richmond,1,16-19,6.58,7,2
+Inner Richmond,1,19-0,4.67,7,3
+Inner Richmond,1,7-10,3.71,7,4
+Inner Richmond,2,0-7,1.04,7,0
+Inner Richmond,2,10-16,3.71,7,1
+Inner Richmond,2,16-19,7.46,7,2
+Inner Richmond,2,19-0,5.55,7,3
+Inner Richmond,2,7-10,4.08,7,4
+Inner Richmond,3,0-7,1.06,7,0
+Inner Richmond,3,10-16,3.9,7,1
+Inner Richmond,3,16-19,7.05,7,2
+Inner Richmond,3,19-0,7.01,7,3
+Inner Richmond,3,7-10,3.88,7,4
+Inner Richmond,4,0-7,1.28,7,0
+Inner Richmond,4,10-16,3.95,7,1
+Inner Richmond,4,16-19,8.6,7,2
+Inner Richmond,4,19-0,9.73,7,3
+Inner Richmond,4,7-10,4.09,7,4
+Inner Richmond,5,0-7,1.4,7,0
+Inner Richmond,5,10-16,6.1,7,1
+Inner Richmond,5,16-19,9.87,7,2
+Inner Richmond,5,19-0,9.94,7,3
+Inner Richmond,5,7-10,3.3,7,4
+Inner Richmond,6,0-7,1.5,7,0
+Inner Richmond,6,10-16,5.4,7,1
+Inner Richmond,6,16-19,7.04,7,2
+Inner Richmond,6,19-0,3.71,7,3
+Inner Richmond,6,7-10,2.88,7,4
+Marina/Cow Hollow,0,0-7,3.2,8,0
+Marina/Cow Hollow,0,10-16,9.17,8,1
+Marina/Cow Hollow,0,16-19,16.92,8,2
+Marina/Cow Hollow,0,19-0,9.22,8,3
+Marina/Cow Hollow,0,7-10,11.8,8,4
+Marina/Cow Hollow,1,0-7,3.67,8,0
+Marina/Cow Hollow,1,10-16,10.18,8,1
+Marina/Cow Hollow,1,16-19,19.52,8,2
+Marina/Cow Hollow,1,19-0,12.82,8,3
+Marina/Cow Hollow,1,7-10,13.23,8,4
+Marina/Cow Hollow,2,0-7,3.64,8,0
+Marina/Cow Hollow,2,10-16,11.38,8,1
+Marina/Cow Hollow,2,16-19,22.4,8,2
+Marina/Cow Hollow,2,19-0,15.33,8,3
+Marina/Cow Hollow,2,7-10,13.65,8,4
+Marina/Cow Hollow,3,0-7,3.83,8,0
+Marina/Cow Hollow,3,10-16,11.42,8,1
+Marina/Cow Hollow,3,16-19,21.19,8,2
+Marina/Cow Hollow,3,19-0,18.94,8,3
+Marina/Cow Hollow,3,7-10,13.55,8,4
+Marina/Cow Hollow,4,0-7,3.51,8,0
+Marina/Cow Hollow,4,10-16,13.11,8,1
+Marina/Cow Hollow,4,16-19,27.57,8,2
+Marina/Cow Hollow,4,19-0,29.93,8,3
+Marina/Cow Hollow,4,7-10,13.65,8,4
+Marina/Cow Hollow,5,0-7,2.81,8,0
+Marina/Cow Hollow,5,10-16,24.43,8,1
+Marina/Cow Hollow,5,16-19,30.64,8,2
+Marina/Cow Hollow,5,19-0,33.29,8,3
+Marina/Cow Hollow,5,7-10,12.02,8,4
+Marina/Cow Hollow,6,0-7,3.3,8,0
+Marina/Cow Hollow,6,10-16,18.71,8,1
+Marina/Cow Hollow,6,16-19,20.18,8,2
+Marina/Cow Hollow,6,19-0,8.68,8,3
+Marina/Cow Hollow,6,7-10,9.18,8,4
+Mission,0,0-7,2.78,9,0
+Mission,0,10-16,9.88,9,1
+Mission,0,16-19,17.21,9,2
+Mission,0,19-0,10.0,9,3
+Mission,0,7-10,14.58,9,4
+Mission,1,0-7,2.75,9,0
+Mission,1,10-16,10.94,9,1
+Mission,1,16-19,19.47,9,2
+Mission,1,19-0,12.8,9,3
+Mission,1,7-10,15.53,9,4
+Mission,2,0-7,2.76,9,0
+Mission,2,10-16,11.95,9,1
+Mission,2,16-19,22.01,9,2
+Mission,2,19-0,15.97,9,3
+Mission,2,7-10,16.55,9,4
+Mission,3,0-7,3.17,9,0
+Mission,3,10-16,12.89,9,1
+Mission,3,16-19,20.88,9,2
+Mission,3,19-0,18.51,9,3
+Mission,3,7-10,17.68,9,4
+Mission,4,0-7,3.16,9,0
+Mission,4,10-16,12.79,9,1
+Mission,4,16-19,24.56,9,2
+Mission,4,19-0,28.62,9,3
+Mission,4,7-10,17.36,9,4
+Mission,5,0-7,3.41,9,0
+Mission,5,10-16,17.33,9,1
+Mission,5,16-19,26.6,9,2
+Mission,5,19-0,28.81,9,3
+Mission,5,7-10,8.25,9,4
+Mission,6,0-7,3.86,9,0
+Mission,6,10-16,15.46,9,1
+Mission,6,16-19,19.67,9,2
+Mission,6,19-0,10.73,9,3
+Mission,6,7-10,6.43,9,4
+Mission Bay,0,0-7,3.1,10,0
+Mission Bay,0,10-16,10.05,10,1
+Mission Bay,0,16-19,16.79,10,2
+Mission Bay,0,19-0,7.44,10,3
+Mission Bay,0,7-10,16.34,10,4
+Mission Bay,1,0-7,3.4,10,0
+Mission Bay,1,10-16,11.31,10,1
+Mission Bay,1,16-19,19.51,10,2
+Mission Bay,1,19-0,9.63,10,3
+Mission Bay,1,7-10,18.2,10,4
+Mission Bay,2,0-7,3.37,10,0
+Mission Bay,2,10-16,12.75,10,1
+Mission Bay,2,16-19,21.53,10,2
+Mission Bay,2,19-0,11.68,10,3
+Mission Bay,2,7-10,21.39,10,4
+Mission Bay,3,0-7,3.89,10,0
+Mission Bay,3,10-16,13.61,10,1
+Mission Bay,3,16-19,20.02,10,2
+Mission Bay,3,19-0,15.12,10,3
+Mission Bay,3,7-10,22.24,10,4
+Mission Bay,4,0-7,3.72,10,0
+Mission Bay,4,10-16,13.53,10,1
+Mission Bay,4,16-19,23.79,10,2
+Mission Bay,4,19-0,18.54,10,3
+Mission Bay,4,7-10,19.13,10,4
+Mission Bay,5,0-7,1.84,10,0
+Mission Bay,5,10-16,10.46,10,1
+Mission Bay,5,16-19,16.23,10,2
+Mission Bay,5,19-0,17.15,10,3
+Mission Bay,5,7-10,5.56,10,4
+Mission Bay,6,0-7,2.28,10,0
+Mission Bay,6,10-16,10.13,10,1
+Mission Bay,6,16-19,12.71,10,2
+Mission Bay,6,19-0,5.47,10,3
+Mission Bay,6,7-10,4.52,10,4
+Nob Hill,0,0-7,4.52,11,0
+Nob Hill,0,10-16,12.72,11,1
+Nob Hill,0,16-19,24.76,11,2
+Nob Hill,0,19-0,16.17,11,3
+Nob Hill,0,7-10,13.75,11,4
+Nob Hill,1,0-7,4.51,11,0
+Nob Hill,1,10-16,13.58,11,1
+Nob Hill,1,16-19,30.3,11,2
+Nob Hill,1,19-0,20.64,11,3
+Nob Hill,1,7-10,15.0,11,4
+Nob Hill,2,0-7,4.85,11,0
+Nob Hill,2,10-16,15.37,11,1
+Nob Hill,2,16-19,34.65,11,2
+Nob Hill,2,19-0,25.4,11,3
+Nob Hill,2,7-10,15.59,11,4
+Nob Hill,3,0-7,5.16,11,0
+Nob Hill,3,10-16,15.41,11,1
+Nob Hill,3,16-19,35.3,11,2
+Nob Hill,3,19-0,31.79,11,3
+Nob Hill,3,7-10,14.81,11,4
+Nob Hill,4,0-7,5.07,11,0
+Nob Hill,4,10-16,17.58,11,1
+Nob Hill,4,16-19,42.82,11,2
+Nob Hill,4,19-0,41.18,11,3
+Nob Hill,4,7-10,15.01,11,4
+Nob Hill,5,0-7,3.96,11,0
+Nob Hill,5,10-16,27.53,11,1
+Nob Hill,5,16-19,42.62,11,2
+Nob Hill,5,19-0,39.94,11,3
+Nob Hill,5,7-10,11.29,11,4
+Nob Hill,6,0-7,4.18,11,0
+Nob Hill,6,10-16,18.91,11,1
+Nob Hill,6,16-19,28.2,11,2
+Nob Hill,6,19-0,14.52,11,3
+Nob Hill,6,7-10,8.71,11,4
+North Beach/Waterfront,0,0-7,2.12,12,0
+North Beach/Waterfront,0,10-16,11.15,12,1
+North Beach/Waterfront,0,16-19,17.8,12,2
+North Beach/Waterfront,0,19-0,7.93,12,3
+North Beach/Waterfront,0,7-10,13.7,12,4
+North Beach/Waterfront,1,0-7,2.12,12,0
+North Beach/Waterfront,1,10-16,11.85,12,1
+North Beach/Waterfront,1,16-19,19.55,12,2
+North Beach/Waterfront,1,19-0,9.63,12,3
+North Beach/Waterfront,1,7-10,14.84,12,4
+North Beach/Waterfront,2,0-7,2.29,12,0
+North Beach/Waterfront,2,10-16,13.43,12,1
+North Beach/Waterfront,2,16-19,22.16,12,2
+North Beach/Waterfront,2,19-0,12.38,12,3
+North Beach/Waterfront,2,7-10,16.48,12,4
+North Beach/Waterfront,3,0-7,2.52,12,0
+North Beach/Waterfront,3,10-16,14.63,12,1
+North Beach/Waterfront,3,16-19,21.88,12,2
+North Beach/Waterfront,3,19-0,14.45,12,3
+North Beach/Waterfront,3,7-10,18.79,12,4
+North Beach/Waterfront,4,0-7,2.4,12,0
+North Beach/Waterfront,4,10-16,14.64,12,1
+North Beach/Waterfront,4,16-19,22.63,12,2
+North Beach/Waterfront,4,19-0,20.25,12,3
+North Beach/Waterfront,4,7-10,17.36,12,4
+North Beach/Waterfront,5,0-7,1.68,12,0
+North Beach/Waterfront,5,10-16,18.18,12,1
+North Beach/Waterfront,5,16-19,23.58,12,2
+North Beach/Waterfront,5,19-0,21.24,12,3
+North Beach/Waterfront,5,7-10,8.57,12,4
+North Beach/Waterfront,6,0-7,1.9,12,0
+North Beach/Waterfront,6,10-16,13.85,12,1
+North Beach/Waterfront,6,16-19,15.96,12,2
+North Beach/Waterfront,6,19-0,7.35,12,3
+North Beach/Waterfront,6,7-10,7.15,12,4
+Pacific Heights,0,0-7,4.12,13,0
+Pacific Heights,0,10-16,11.0,13,1
+Pacific Heights,0,16-19,17.65,13,2
+Pacific Heights,0,19-0,9.27,13,3
+Pacific Heights,0,7-10,16.38,13,4
+Pacific Heights,1,0-7,4.31,13,0
+Pacific Heights,1,10-16,12.18,13,1
+Pacific Heights,1,16-19,20.17,13,2
+Pacific Heights,1,19-0,12.7,13,3
+Pacific Heights,1,7-10,17.61,13,4
+Pacific Heights,2,0-7,4.8,13,0
+Pacific Heights,2,10-16,12.83,13,1
+Pacific Heights,2,16-19,22.49,13,2
+Pacific Heights,2,19-0,15.4,13,3
+Pacific Heights,2,7-10,18.87,13,4
+Pacific Heights,3,0-7,4.61,13,0
+Pacific Heights,3,10-16,13.59,13,1
+Pacific Heights,3,16-19,20.93,13,2
+Pacific Heights,3,19-0,18.73,13,3
+Pacific Heights,3,7-10,18.34,13,4
+Pacific Heights,4,0-7,4.31,13,0
+Pacific Heights,4,10-16,14.31,13,1
+Pacific Heights,4,16-19,24.8,13,2
+Pacific Heights,4,19-0,23.97,13,3
+Pacific Heights,4,7-10,18.68,13,4
+Pacific Heights,5,0-7,2.73,13,0
+Pacific Heights,5,10-16,19.83,13,1
+Pacific Heights,5,16-19,29.48,13,2
+Pacific Heights,5,19-0,25.99,13,3
+Pacific Heights,5,7-10,10.25,13,4
+Pacific Heights,6,0-7,3.41,13,0
+Pacific Heights,6,10-16,15.38,13,1
+Pacific Heights,6,16-19,20.36,13,2
+Pacific Heights,6,19-0,8.61,13,3
+Pacific Heights,6,7-10,8.02,13,4
+Potrero Hill,0,0-7,1.54,14,0
+Potrero Hill,0,10-16,6.76,14,1
+Potrero Hill,0,16-19,10.35,14,2
+Potrero Hill,0,19-0,4.6,14,3
+Potrero Hill,0,7-10,11.6,14,4
+Potrero Hill,1,0-7,1.51,14,0
+Potrero Hill,1,10-16,7.63,14,1
+Potrero Hill,1,16-19,11.9,14,2
+Potrero Hill,1,19-0,6.09,14,3
+Potrero Hill,1,7-10,12.75,14,4
+Potrero Hill,2,0-7,1.51,14,0
+Potrero Hill,2,10-16,8.67,14,1
+Potrero Hill,2,16-19,14.05,14,2
+Potrero Hill,2,19-0,7.15,14,3
+Potrero Hill,2,7-10,13.74,14,4
+Potrero Hill,3,0-7,1.82,14,0
+Potrero Hill,3,10-16,9.49,14,1
+Potrero Hill,3,16-19,13.72,14,2
+Potrero Hill,3,19-0,10.35,14,3
+Potrero Hill,3,7-10,16.1,14,4
+Potrero Hill,4,0-7,1.81,14,0
+Potrero Hill,4,10-16,9.2,14,1
+Potrero Hill,4,16-19,14.39,14,2
+Potrero Hill,4,19-0,15.02,14,3
+Potrero Hill,4,7-10,14.23,14,4
+Potrero Hill,5,0-7,1.58,14,0
+Potrero Hill,5,10-16,8.41,14,1
+Potrero Hill,5,16-19,12.15,14,2
+Potrero Hill,5,19-0,12.8,14,3
+Potrero Hill,5,7-10,4.44,14,4
+Potrero Hill,6,0-7,1.74,14,0
+Potrero Hill,6,10-16,7.0,14,1
+Potrero Hill,6,16-19,8.23,14,2
+Potrero Hill,6,19-0,3.65,14,3
+Potrero Hill,6,7-10,3.14,14,4
+Russian Hill,0,0-7,1.91,15,0
+Russian Hill,0,10-16,8.23,15,1
+Russian Hill,0,16-19,16.59,15,2
+Russian Hill,0,19-0,9.88,15,3
+Russian Hill,0,7-10,8.33,15,4
+Russian Hill,1,0-7,1.98,15,0
+Russian Hill,1,10-16,8.44,15,1
+Russian Hill,1,16-19,19.31,15,2
+Russian Hill,1,19-0,13.68,15,3
+Russian Hill,1,7-10,9.22,15,4
+Russian Hill,2,0-7,2.17,15,0
+Russian Hill,2,10-16,9.52,15,1
+Russian Hill,2,16-19,22.92,15,2
+Russian Hill,2,19-0,16.7,15,3
+Russian Hill,2,7-10,10.13,15,4
+Russian Hill,3,0-7,2.08,15,0
+Russian Hill,3,10-16,9.97,15,1
+Russian Hill,3,16-19,21.47,15,2
+Russian Hill,3,19-0,19.84,15,3
+Russian Hill,3,7-10,10.34,15,4
+Russian Hill,4,0-7,2.37,15,0
+Russian Hill,4,10-16,12.24,15,1
+Russian Hill,4,16-19,29.56,15,2
+Russian Hill,4,19-0,28.44,15,3
+Russian Hill,4,7-10,9.78,15,4
+Russian Hill,5,0-7,2.18,15,0
+Russian Hill,5,10-16,22.45,15,1
+Russian Hill,5,16-19,32.48,15,2
+Russian Hill,5,19-0,29.12,15,3
+Russian Hill,5,7-10,8.68,15,4
+Russian Hill,6,0-7,2.5,15,0
+Russian Hill,6,10-16,16.34,15,1
+Russian Hill,6,16-19,22.65,15,2
+Russian Hill,6,19-0,10.09,15,3
+Russian Hill,6,7-10,6.98,15,4
+Tenderloin,0,0-7,4.01,16,0
+Tenderloin,0,10-16,13.45,16,1
+Tenderloin,0,16-19,21.79,16,2
+Tenderloin,0,19-0,12.81,16,3
+Tenderloin,0,7-10,12.98,16,4
+Tenderloin,1,0-7,3.96,16,0
+Tenderloin,1,10-16,14.32,16,1
+Tenderloin,1,16-19,24.53,16,2
+Tenderloin,1,19-0,16.63,16,3
+Tenderloin,1,7-10,13.53,16,4
+Tenderloin,2,0-7,4.11,16,0
+Tenderloin,2,10-16,15.77,16,1
+Tenderloin,2,16-19,27.38,16,2
+Tenderloin,2,19-0,20.81,16,3
+Tenderloin,2,7-10,14.45,16,4
+Tenderloin,3,0-7,4.72,16,0
+Tenderloin,3,10-16,17.62,16,1
+Tenderloin,3,16-19,27.48,16,2
+Tenderloin,3,19-0,24.8,16,3
+Tenderloin,3,7-10,15.16,16,4
+Tenderloin,4,0-7,4.97,16,0
+Tenderloin,4,10-16,17.27,16,1
+Tenderloin,4,16-19,30.93,16,2
+Tenderloin,4,19-0,34.51,16,3
+Tenderloin,4,7-10,14.44,16,4
+Tenderloin,5,0-7,4.91,16,0
+Tenderloin,5,10-16,22.3,16,1
+Tenderloin,5,16-19,32.73,16,2
+Tenderloin,5,19-0,35.92,16,3
+Tenderloin,5,7-10,11.91,16,4
+Tenderloin,6,0-7,5.33,16,0
+Tenderloin,6,10-16,17.65,16,1
+Tenderloin,6,16-19,23.58,16,2
+Tenderloin,6,19-0,13.64,16,3
+Tenderloin,6,7-10,9.46,16,4
+Union Square,0,0-7,2.18,17,0
+Union Square,0,10-16,11.58,17,1
+Union Square,0,16-19,16.27,17,2
+Union Square,0,19-0,7.27,17,3
+Union Square,0,7-10,11.15,17,4
+Union Square,1,0-7,2.09,17,0
+Union Square,1,10-16,12.89,17,1
+Union Square,1,16-19,18.36,17,2
+Union Square,1,19-0,9.25,17,3
+Union Square,1,7-10,11.75,17,4
+Union Square,2,0-7,2.43,17,0
+Union Square,2,10-16,13.88,17,1
+Union Square,2,16-19,20.9,17,2
+Union Square,2,19-0,11.99,17,3
+Union Square,2,7-10,13.27,17,4
+Union Square,3,0-7,2.93,17,0
+Union Square,3,10-16,16.35,17,1
+Union Square,3,16-19,19.11,17,2
+Union Square,3,19-0,13.44,17,3
+Union Square,3,7-10,15.91,17,4
+Union Square,4,0-7,2.88,17,0
+Union Square,4,10-16,15.5,17,1
+Union Square,4,16-19,18.95,17,2
+Union Square,4,19-0,19.46,17,3
+Union Square,4,7-10,15.01,17,4
+Union Square,5,0-7,2.21,17,0
+Union Square,5,10-16,18.54,17,1
+Union Square,5,16-19,21.53,17,2
+Union Square,5,19-0,20.06,17,3
+Union Square,5,7-10,8.13,17,4
+Union Square,6,0-7,2.43,17,0
+Union Square,6,10-16,15.06,17,1
+Union Square,6,16-19,17.24,17,2
+Union Square,6,19-0,8.08,17,3
+Union Square,6,7-10,6.47,17,4
+Western Addition,0,0-7,3.09,18,0
+Western Addition,0,10-16,8.22,18,1
+Western Addition,0,16-19,12.85,18,2
+Western Addition,0,19-0,8.94,18,3
+Western Addition,0,7-10,10.3,18,4
+Western Addition,1,0-7,2.87,18,0
+Western Addition,1,10-16,8.94,18,1
+Western Addition,1,16-19,14.65,18,2
+Western Addition,1,19-0,11.28,18,3
+Western Addition,1,7-10,11.52,18,4
+Western Addition,2,0-7,2.91,18,0
+Western Addition,2,10-16,9.53,18,1
+Western Addition,2,16-19,15.77,18,2
+Western Addition,2,19-0,13.82,18,3
+Western Addition,2,7-10,11.92,18,4
+Western Addition,3,0-7,3.13,18,0
+Western Addition,3,10-16,10.01,18,1
+Western Addition,3,16-19,15.61,18,2
+Western Addition,3,19-0,16.75,18,3
+Western Addition,3,7-10,12.38,18,4
+Western Addition,4,0-7,2.98,18,0
+Western Addition,4,10-16,10.29,18,1
+Western Addition,4,16-19,19.05,18,2
+Western Addition,4,19-0,23.76,18,3
+Western Addition,4,7-10,11.91,18,4
+Western Addition,5,0-7,2.98,18,0
+Western Addition,5,10-16,14.74,18,1
+Western Addition,5,16-19,22.67,18,2
+Western Addition,5,19-0,24.01,18,3
+Western Addition,5,7-10,6.84,18,4
+Western Addition,6,0-7,3.52,18,0
+Western Addition,6,10-16,12.6,18,1
+Western Addition,6,16-19,16.09,18,2
+Western Addition,6,19-0,8.72,18,3
+Western Addition,6,7-10,5.73,18,4
+Western SoMa,0,0-7,2.35,19,0
+Western SoMa,0,10-16,11.27,19,1
+Western SoMa,0,16-19,17.12,19,2
+Western SoMa,0,19-0,7.42,19,3
+Western SoMa,0,7-10,16.24,19,4
+Western SoMa,1,0-7,2.13,19,0
+Western SoMa,1,10-16,12.93,19,1
+Western SoMa,1,16-19,20.37,19,2
+Western SoMa,1,19-0,9.61,19,3
+Western SoMa,1,7-10,17.1,19,4
+Western SoMa,2,0-7,2.2,19,0
+Western SoMa,2,10-16,13.89,19,1
+Western SoMa,2,16-19,21.86,19,2
+Western SoMa,2,19-0,12.14,19,3
+Western SoMa,2,7-10,18.27,19,4
+Western SoMa,3,0-7,2.72,19,0
+Western SoMa,3,10-16,15.33,19,1
+Western SoMa,3,16-19,19.61,19,2
+Western SoMa,3,19-0,15.57,19,3
+Western SoMa,3,7-10,21.72,19,4
+Western SoMa,4,0-7,2.71,19,0
+Western SoMa,4,10-16,14.56,19,1
+Western SoMa,4,16-19,23.03,19,2
+Western SoMa,4,19-0,22.25,19,3
+Western SoMa,4,7-10,19.29,19,4
+Western SoMa,5,0-7,3.02,19,0
+Western SoMa,5,10-16,11.67,19,1
+Western SoMa,5,16-19,16.54,19,2
+Western SoMa,5,19-0,23.12,19,3
+Western SoMa,5,7-10,5.84,19,4
+Western SoMa,6,0-7,3.76,19,0
+Western SoMa,6,10-16,9.29,19,1
+Western SoMa,6,16-19,11.71,19,2
+Western SoMa,6,19-0,6.58,19,3
+Western SoMa,6,7-10,4.23,19,4
