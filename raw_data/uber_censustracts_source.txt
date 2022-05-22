@@ -1,0 +1,15 @@
+Datasource is too big for github
+please download it from:
+https://drive.google.com/drive/folders/1hM97MvUErCMuiE8Wa0YGVy5J6t49tS_6?usp=sharing
+
+These are the available columns
+sourceid -> key to MOVEMENT_ID in geo_san_francisco_censustracts.json 
+dstid -> key to MOVEMENT_ID in geo_san_francisco_censustracts.json 
+month -> number
+day -> number
+start_hour -> number
+end_hour -> number
+mean_travel_time -> number
+standard_deviation_travel_time -> number
+geometric_mean_travel_time -> number
+geometric_standard_deviation_travel_time -> number
