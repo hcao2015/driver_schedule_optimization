@@ -1,0 +1,6 @@
+cleaned_data/.DS_Store
+raw_data/.DS_Store
+
+.ipynb_checkpoints/
+.idea/
+.DS_Store
