@@ -4,3 +4,7 @@ raw_data/.DS_Store
 .ipynb_checkpoints/
 .idea/
 .DS_Store
+
+__pycache__/*
+
+raw_data/san_francisco-censustracts-2020-1-All-DatesByHourBucketsAggregate.csv

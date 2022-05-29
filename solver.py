@@ -1,7 +1,8 @@
+from argparse import ArgumentParser
 import pandas as pd
 import numpy as np
 from constants import average_hourly_wage, day_of_week_map, neighborhood_map
-from pulp import LpMaximize, LpProblem, LpVariable, lpSum, LpBinary, LpConstraint
+from pulp import LpMaximize, LpProblem, LpVariable, lpSum, LpBinary
 
 
 def get_probablity_new_trip(d_max, d_min, d_avg):
@@ -93,7 +94,7 @@ def solver(data):
 
     # Add the constraints
     # Constraint 1: Time Availability of driver
-    # Constrain 2: Location Availablity of the driver
+    # Constrain 2: Location Availability of the driver
     # Constrain 3: Day Available of the driver
     for k in dim_k:
         for i in dim_i:
@@ -112,7 +113,7 @@ def solver(data):
             model += (lpSum([x[k][i][j] for j in dim_j]) <= 1, f"Only work at one neighborhood at a time: {k} {i}")
 
     # Objective function: Maximize revenue
-    model += lpSum([np.transpose(expected_revenue[k]) * x[k] for k in dim_k])
+    model += lpSum([expected_revenue[k] * x[k] for k in dim_k])
 
     # Solve
     status = model.solve()
@@ -128,12 +129,52 @@ def solver(data):
                 f"works at neighborhood {neighborhood_map[var_nums[2]]} ")
 
 
-def main():
-    # TODO: Make it commandline data parser
-    from test_cases import example_one
-    solver(example_one)
-
-
 if __name__ == "__main__":
-    main()
+    parser = ArgumentParser(
+        description="Build optimized schedule for Uber driver in one week work"
+    )
+
+    parser.add_argument(
+        "--max-hours-weekly",
+        help="Maximum number of hours drivers can work per week. For example, 12",
+        type=int,
+    )
+
+    parser.add_argument(
+        "--time-available",
+        help="Time slots that driver is available to work. Values need to be from 0-23 and in a list. "
+             "For example, 16 17 18 19 represents from 4pm-8pm",
+        nargs='+', type=int
+    )
+
+    parser.add_argument(
+        "--day-available",
+        help="Days of the week that driver is available to work. Values need to be from 0-6 and in a list. "
+             "For example, 0 1 3 4 represents Monday, Tuesday, Thursday, Friday",
+        nargs='+', type=int
+    )
+
+    parser.add_argument(
+        "--location-available",
+        help="SanFrancisco locations that driver is available to work. Values need to be from 0-18 and in a list. "
+             "For example, 0 9 18 represents Castro/Upper Market, Mission, Western SoMa",
+        nargs='+', type=int
+    )
+
+    args = parser.parse_args()
+
+    data = {
+        "max_total_hours": args.max_hours_weekly,
+        "day_available": args.day_available,
+        "time_available": args.time_available,
+        "location_available": args.location_available
+    }
+
+    if args.max_hours_weekly and args.day_available and args.time_available and args.location_available:
+        print("Input data is: \n", data)
+        solver(data)
+    else:
+        # If no data, we run the example case
+        from test_cases import example_one
+        solver(example_one)
 
